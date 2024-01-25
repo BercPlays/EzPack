@@ -1,5 +1,5 @@
 # EzPack
-## Minecraft texturepack készitó program c#ban
+### Minecraft texturepack készitó program c#ban
 
 **Instaláció**
 
