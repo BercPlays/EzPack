@@ -1,7 +1,7 @@
 # EzPack
 ### Minecraft texturepack készitó program c#ban
 
-**Instaláció**
+### **-- Instaláció --**
 
 [Direkt Letöltés](https://www.dropbox.com/scl/fi/6813u2pdaq4ydbdz2axt2/EzPack.zip?rlkey=amyy3mtoqvw4fa5dlcynvk0if&dl=1)
 
