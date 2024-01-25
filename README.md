@@ -4,7 +4,7 @@
 
 ### **-- Instaláció --**
 
-[Direkt Letöltés](https://www.dropbox.com/scl/fi/6813u2pdaq4ydbdz2axt2/EzPack.zip?rlkey=amyy3mtoqvw4fa5dlcynvk0if&dl=1)
+[Direkt Letöltés](https://www.dropbox.com/scl/fi/npva74wp53s2lojz2aovo/EzPack.zip?rlkey=kjm694yg3e29zavoaykm78d9v&dl=1)
 
 **Vagy**
 
