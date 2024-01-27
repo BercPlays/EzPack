@@ -2,7 +2,7 @@
 ### Minecraft texturepack készitó program c#ban (.NET Framework 4.7.2)
 
 
-### **-- Instaláció --**
+### **-- Telepítés --**
 
 [Direkt Letöltés](https://www.dropbox.com/scl/fi/m38kqodrkgq270fvjsson/EzPack.zip?rlkey=2bremp7k5x8cdrnuzxi8ukf4y&dl=1)
 
