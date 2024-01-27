@@ -21,6 +21,3 @@ HTTPS
 Támogatott OS: Windows
 
 [![Videó](https://img.youtube.com/vi/Z250RrQ-8y0/hqdefault.jpg)](https://www.youtube.com/embed/Z250RrQ-8y0)
-
-[<img src="https://img.youtube.com/vi/Z250RrQ-8y0/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/Z250RrQ-8y0)
