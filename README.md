@@ -18,4 +18,4 @@ HTTPS
   https://github.com/BercPlays/EzPack.git
 ```
 
-Támogatott OS-ok: Windows
+Támogatott OS: Windows
